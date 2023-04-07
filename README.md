@@ -1,5 +1,4 @@
-# Abu-Mani
-To share the insights on data analysis projects using Python and MySQL
+
 
 Project 1
 The project was to extract data from a data set containing data about the top 4000 youtube channels based on subscibers.
